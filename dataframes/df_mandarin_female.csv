@@ -1,0 +1,40 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+255,255,26.0,13.0,"shanxi province, shanxi, china",mandarin1,mandarin,female,256,china
+256,256,38.0,14.0,"nanjing, china",mandarin2,mandarin,female,257,china
+258,258,24.0,6.0,"shanghai, china",mandarin4,mandarin,female,259,china
+259,259,31.0,12.0,"beijing, china",mandarin5,mandarin,female,260,china
+260,260,28.0,12.0,"le shan, sichuan, china",mandarin6,mandarin,female,261,china
+606,606,53.0,13.0,"kao-hsiung, taiwan",mandarin11,mandarin,female,607,taiwan
+745,745,28.0,11.0,"tainan, taiwan",mandarin15,mandarin,female,746,taiwan
+871,871,29.0,13.0,"taoyuan, taiwan",mandarin18,mandarin,female,872,taiwan
+930,930,40.0,12.0,"ping tong, taiwan",mandarin20,mandarin,female,931,taiwan
+983,983,38.0,9.0,"chengdu, sichuan, china",mandarin21,mandarin,female,984,china
+1018,1018,39.0,11.0,"haikou, hainan, china",mandarin22,mandarin,female,1019,china
+1043,1043,46.0,13.0,"kao-hsiung, taiwan",mandarin23,mandarin,female,1044,taiwan
+1088,1088,21.0,10.0,"shanghai, china",mandarin24,mandarin,female,1089,china
+1124,1124,28.0,13.0,"wuxi, jiangsu, china",mandarin25,mandarin,female,1125,china
+1140,1140,31.0,12.0,"emei, sichuan, china",mandarin26,mandarin,female,1141,china
+1518,1518,26.0,13.0,"wenzhou, zhejiang, china",mandarin31,mandarin,female,1519,china
+1526,1526,23.0,12.0,"taipei, taiwan",mandarin32,mandarin,female,1527,taiwan
+1577,1577,31.0,13.0,"shi jia zhuang, hebei, china",mandarin34,mandarin,female,1578,china
+1578,1578,27.0,12.0,"yantai, shandong, china",mandarin35,mandarin,female,1579,china
+1579,1579,32.0,10.0,"beijing, china",mandarin36,mandarin,female,1580,china
+1580,1580,32.0,12.0,"huhot, nei meng gu, china",mandarin37,mandarin,female,1581,china
+1581,1581,33.0,12.0,"changsha, hunan, china",mandarin38,mandarin,female,1582,china
+1582,1582,24.0,12.0,"tie ling, liaoning, china",mandarin39,mandarin,female,1583,china
+1614,1614,34.0,13.0,"songyuan, jilin, china",mandarin41,mandarin,female,1615,china
+1615,1615,47.0,16.0,"yanbian, jilin, china",mandarin42,mandarin,female,1616,china
+1616,1616,24.0,15.0,"datong, shanxi, china",mandarin43,mandarin,female,1617,china
+1630,1630,42.0,12.0,"beijing, china",mandarin45,mandarin,female,1631,china
+1635,1635,43.0,9.0,"jilin city, jilin, china",mandarin46,mandarin,female,1636,china
+1643,1643,28.0,8.0,"beijing, china",mandarin47,mandarin,female,1644,china
+1792,1792,26.0,6.0,"shaoxing, zhejiang, china",mandarin52,mandarin,female,1793,china
+1816,1816,38.0,13.0,"ningbo, zhejiang, china",mandarin53,mandarin,female,1817,china
+1899,1899,25.0,10.0,"chengdu, sichuan, china",mandarin54,mandarin,female,1900,china
+1908,1908,25.0,13.0,"loudi, hunan, china",mandarin55,mandarin,female,1909,china
+1909,1909,26.0,11.0,"baoding, hebei, china",mandarin56,mandarin,female,1910,china
+2018,2018,20.0,6.0,"kunming, yunnan, china",mandarin59,mandarin,female,2019,china
+2108,2108,41.0,13.0,"guiyang, guizhou, china",mandarin60,mandarin,female,2109,china
+2115,2115,33.0,16.0,"shangrao, jiangxi, china",mandarin61,mandarin,female,2116,china
+2128,2128,24.0,10.0,"fuzhou, fujian, china",mandarin64,mandarin,female,2129,china
+2172,2172,20.0,5.0,"tianjin, hebei, china",mandarin65,mandarin,female,2173,china

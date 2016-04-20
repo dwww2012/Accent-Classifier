@@ -1,0 +1,95 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+322,322,24.0,17.0,"caracas, venezuela",spanish1,spanish,male,323,venezuela
+323,323,48.0,47.0,"san luis de la reina, el salvador",spanish10,spanish,male,324,el salvador
+325,325,25.0,8.0,"oviedo, spain",spanish12,spanish,male,326,spain
+328,328,54.0,4.0,"san juan, puerto rico",spanish15,spanish,male,329,puerto rico
+329,329,44.0,25.0,"buenos aires, argentina",spanish16,spanish,male,330,argentina
+331,331,22.0,17.0,"la paz, bolivia",spanish18,spanish,male,332,bolivia
+333,333,20.0,12.0,"puerto la cruz, venezuela",spanish2,spanish,male,334,venezuela
+334,334,45.0,30.0,"managua, nicaragua",spanish20,spanish,male,335,nicaragua
+335,335,25.0,18.0,"santiago, chile",spanish21,spanish,male,336,chile
+337,337,22.0,7.0,"santiago, chile",spanish23,spanish,male,338,chile
+338,338,27.0,5.0,"mexico city, mexico",spanish24,spanish,male,339,mexico
+339,339,26.0,21.0,"san jose, costa rica",spanish25,spanish,male,340,costa rica
+340,340,18.0,6.0,"burgos, spain",spanish26,spanish,male,341,spain
+341,341,34.0,14.0,"zaragoza, spain",spanish27,spanish,male,342,spain
+346,346,20.0,19.0,"lima, peru",spanish6,spanish,male,347,peru
+348,348,21.0,12.0,"san salvador, el salvador",spanish8,spanish,male,349,el salvador
+349,349,20.0,17.0,"araure, venezuela",spanish9,spanish,male,350,venezuela
+409,409,18.0,10.0,"maracaibo, zulia, venezuela",spanish29,spanish,male,410,venezuela
+440,440,18.0,5.0,"buenos aires, argentina",spanish30,spanish,male,441,argentina
+449,449,26.0,22.0,"santa cruz, bolivia",spanish32,spanish,male,450,bolivia
+466,466,18.0,15.0,"caracas, venezuela",spanish33,spanish,male,467,venezuela
+475,475,28.0,11.0,"cartagena, spain",spanish34,spanish,male,476,spain
+478,478,28.0,17.0,"mexico city, mexico",spanish35,spanish,male,479,mexico
+498,498,27.0,25.0,"montevideo, uruguay",spanish36,spanish,male,499,uruguay
+575,575,53.0,13.0,"tegucigalpa, honduras",spanish38,spanish,male,576,honduras
+613,613,20.0,3.0,"pamplona, spain",spanish39,spanish,male,614,spain
+643,643,20.0,6.0,"cartago, costa rica",spanish40,spanish,male,644,costa rica
+705,705,25.0,6.0,"bonao, dominican republic",spanish41,spanish,male,706,dominican republic
+713,713,43.0,16.0,"santiago-dr, dominican republic",spanish43,spanish,male,714,dominican republic
+716,716,33.0,14.0,"santo domingo, dominican republic",spanish46,spanish,male,717,dominican republic
+730,730,21.0,6.0,"bilbao, spain",spanish48,spanish,male,731,spain
+731,731,31.0,6.0,"tandil, argentina",spanish49,spanish,male,732,argentina
+751,751,27.0,15.0,"santo domingo, dominican republic",spanish50,spanish,male,752,dominican republic
+752,752,20.0,6.0,"caguas, puerto rico",spanish51,spanish,male,753,puerto rico
+796,796,33.0,6.0,"bogota, colombia",spanish53,spanish,male,797,colombia
+799,799,25.0,18.0,"vina del mar, chile",spanish54,spanish,male,800,chile
+809,809,36.0,9.0,"tandil, argentina",spanish55,spanish,male,810,argentina
+837,837,22.0,8.0,"monterrey, mexico",spanish56,spanish,male,838,mexico
+885,885,33.0,11.0,"montevideo, uruguay",spanish57,spanish,male,886,uruguay
+905,905,31.0,18.0,"bogota, colombia",spanish58,spanish,male,906,colombia
+923,923,67.0,39.0,"azuaga, spain",spanish61,spanish,male,924,spain
+961,961,28.0,12.0,"medellin, colombia",spanish64,spanish,male,962,colombia
+1068,1068,32.0,12.0,"barranquilla, colombia",spanish65,spanish,male,1069,colombia
+1076,1076,30.0,12.0,"san salvador, el salvador",spanish66,spanish,male,1077,el salvador
+1226,1226,27.0,14.0,"san fernando, chile",spanish68,spanish,male,1227,chile
+1230,1230,24.0,6.0,"rosario, argentina",spanish71,spanish,male,1231,argentina
+1239,1239,19.0,15.0,"merida, venezuela",spanish73,spanish,male,1240,venezuela
+1248,1248,44.0,14.0,"zaragoza, spain",spanish74,spanish,male,1249,spain
+1289,1289,27.0,10.0,"la paz, bolivia",spanish76,spanish,male,1290,bolivia
+1300,1300,45.0,13.0,"jalisco, mexico",spanish77,spanish,male,1301,mexico
+1395,1395,49.0,14.0,"la paz, bolivia",spanish82,spanish,male,1396,bolivia
+1396,1396,48.0,14.0,"la paz, bolivia",spanish83,spanish,male,1397,bolivia
+1399,1399,23.0,4.0,"buenos aires, argentina",spanish86,spanish,male,1400,argentina
+1400,1400,55.0,9.0,"la paz, bolivia",spanish87,spanish,male,1401,bolivia
+1401,1401,53.0,25.0,"la paz, bolivia",spanish88,spanish,male,1402,bolivia
+1424,1424,22.0,13.0,"monterrey, mexico",spanish89,spanish,male,1425,mexico
+1434,1434,54.0,9.0,"cardenas, cuba",spanish92,spanish,male,1435,cuba
+1438,1438,19.0,6.0,"bogota, colombia",spanish94,spanish,male,1439,colombia
+1450,1450,34.0,29.0,"veracruz, mexico",spanish98,spanish,male,1451,mexico
+1574,1574,31.0,26.0,"cochabamba, bolivia",spanish102,spanish,male,1575,bolivia
+1583,1583,46.0,15.0,"san miguel, el salvador",spanish103,spanish,male,1584,el salvador
+1620,1620,21.0,5.0,"lima, peru",spanish106,spanish,male,1621,peru
+1621,1621,36.0,14.0,"san salvador, el salvador",spanish107,spanish,male,1622,el salvador
+1628,1628,36.0,24.0,"medellin, colombia",spanish108,spanish,male,1629,colombia
+1659,1659,21.0,16.0,"maracay, venezuela",spanish109,spanish,male,1660,venezuela
+1679,1679,20.0,18.0,"caracas, venezuela",spanish110,spanish,male,1680,venezuela
+1688,1688,55.0,33.0,"santiago, chile",spanish111,spanish,male,1689,chile
+1692,1692,25.0,15.0,"la paz, bolivia",spanish112,spanish,male,1693,bolivia
+1694,1694,19.0,8.0,"cochabamba, bolivia",spanish113,spanish,male,1695,bolivia
+1746,1746,37.0,6.0,"bogota, colombia",spanish116,spanish,male,1747,colombia
+1796,1796,46.0,12.0,"madrid, spain",spanish117,spanish,male,1797,spain
+1825,1825,34.0,21.0,"pasaquina, el salvador",spanish121,spanish,male,1826,el salvador
+1834,1834,22.0,5.0,"santa cruz, bolivia",spanish124,spanish,male,1835,bolivia
+1839,1839,23.0,9.0,"lima, peru",spanish125,spanish,male,1840,peru
+1859,1859,34.0,19.0,"san salvador, el salvador",spanish127,spanish,male,1860,el salvador
+1890,1890,27.0,21.0,"guayaquil, ecuador",spanish130,spanish,male,1891,ecuador
+1902,1902,56.0,25.0,"havana, cuba",spanish131,spanish,male,1903,cuba
+1915,1915,38.0,19.0,"cochabamba, bolivia",spanish133,spanish,male,1916,bolivia
+1948,1948,49.0,8.0,"santiago, chile",spanish136,spanish,male,1949,chile
+1980,1980,50.0,38.0,"guatemala city, guatemala",spanish139,spanish,male,1981,guatemala
+2008,2008,24.0,12.0,"la union, el salvador",spanish141,spanish,male,2009,el salvador
+2025,2025,45.0,6.0,"oviedo, spain",spanish143,spanish,male,2026,spain
+2056,2056,25.0,18.0,"las palmas, oaxaca, mexico",spanish146,spanish,male,2057,mexico
+2077,2077,26.0,15.0,"puerto_cabezas, nicaragua",spanish147,spanish,male,2078,nicaragua
+2078,2078,19.0,11.0,"la ceiba, honduras",spanish148,spanish,male,2079,honduras
+2090,2090,23.0,22.0,"bilwi, puerto cabezas, nicaragua",spanish149,spanish,male,2091,nicaragua
+2093,2093,18.0,13.0,"bilwi, puerto cabezas, nicaragua",spanish150,spanish,male,2094,nicaragua
+2099,2099,51.0,25.0,"barcelona, spain",spanish152,spanish,male,2100,spain
+2117,2117,21.0,10.0,"bogota, colombia",spanish153,spanish,male,2118,colombia
+2126,2126,30.0,4.0,"montevideo, uruguay",spanish154,spanish,male,2127,uruguay
+2129,2129,27.0,9.0,"lima, peru",spanish155,spanish,male,2130,peru
+2148,2148,29.0,21.0,"san salvador, el salvador",spanish159,spanish,male,2149,el salvador
+2149,2149,20.0,7.0,"bogota, colombia",spanish160,spanish,male,2150,colombia
+2168,2168,28.0,5.0,"mexico city, mexico",spanish162,spanish,male,2169,mexico

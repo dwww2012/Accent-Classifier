@@ -1,0 +1,28 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+281,281,21.0,13.0,"novo hamburgo, rio grande do sul, brazil",portuguese10,portuguese,male,282,brazil
+284,284,20.0,15.0,"cabinda, angola",portuguese4,portuguese,male,285,angola
+285,285,31.0,13.0,"lubango, angola",portuguese5,portuguese,male,286,angola
+286,286,44.0,15.0,"sao paulo, brazil",portuguese6,portuguese,male,287,brazil
+287,287,40.0,11.0,"vitoria, brazil",portuguese7,portuguese,male,288,brazil
+288,288,26.0,7.0,"fortaleza, brazil",portuguese8,portuguese,male,289,brazil
+289,289,18.0,14.0,"sao paulo, brazil",portuguese9,portuguese,male,290,brazil
+512,512,36.0,12.0,"lisbon, portugal",portuguese12,portuguese,male,513,portugal
+519,519,18.0,9.0,"santa maria, rio grande do sul, brazil",portuguese13,portuguese,male,520,brazil
+557,557,25.0,8.0,"sao paulo, brazil",portuguese14,portuguese,male,558,brazil
+614,614,54.0,9.0,"sao paulo, brazil",portuguese15,portuguese,male,615,brazil
+631,631,25.0,15.0,"porto alegre, brazil",portuguese16,portuguese,male,632,brazil
+805,805,18.0,15.0,"salinas, brazil",portuguese17,portuguese,male,806,brazil
+828,828,32.0,4.0,"florianopolis, brazil",portuguese19,portuguese,male,829,brazil
+832,832,21.0,10.0,"campinas, brazil",portuguese20,portuguese,male,833,brazil
+890,890,23.0,17.0,"sao paulo, brazil",portuguese21,portuguese,male,891,brazil
+1283,1283,28.0,8.0,"vitoria, brazil",portuguese29,portuguese,male,1284,brazil
+1285,1285,29.0,16.0,"belo horizonte, brazil",portuguese31,portuguese,male,1286,brazil
+1304,1304,29.0,12.0,"volta redonda, brazil",portuguese32,portuguese,male,1305,brazil
+1315,1315,38.0,28.0,"brasilia, brazil",portuguese33,portuguese,male,1316,brazil
+1375,1375,18.0,14.0,"porto alegre, brazil",portuguese34,portuguese,male,1376,brazil
+1469,1469,25.0,15.0,"rio de janeiro, brazil",portuguese38,portuguese,male,1470,brazil
+1772,1772,23.0,0.0,"london, england, uk",portuguese40,portuguese,male,1773,uk
+1848,1848,22.0,10.0,"mexico city, mexico",portuguese41,portuguese,male,1849,mexico
+1882,1882,24.0,21.0,"luanda, angola",portuguese42,portuguese,male,1883,angola
+1964,1964,65.0,11.0,"cascais, portugal",portuguese46,portuguese,male,1965,portugal
+2119,2119,31.0,26.0,"sao paulo, brazil",portuguese48,portuguese,male,2120,brazil

@@ -1,0 +1,61 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+11,11,26.0,5.0,"cairo, egypt",arabic10,arabic,male,12,egypt
+13,13,32.0,11.0,"baghdad, iraq",arabic12,arabic,male,14,iraq
+14,14,25.0,15.0,"zabbougha, lebanon",arabic13,arabic,male,15,lebanon
+15,15,18.0,2.5,"damascus, syria",arabic2,arabic,male,16,syria
+16,16,24.0,9.0,"doha, qatar",arabic3,arabic,male,17,qatar
+17,17,19.0,6.0,"sharjah, united arab emirates",arabic4,arabic,male,18,united arab emirates
+19,19,21.0,14.5,"sanaa, yemen",arabic6,arabic,male,20,yemen
+21,21,21.0,17.0,"casablanca, morocco",arabic8,arabic,male,22,morocco
+427,427,47.0,11.0,"amman, jordan",arabic14,arabic,male,428,jordan
+436,436,40.0,33.0,"qayrawan, tunisia",arabic15,arabic,male,437,tunisia
+470,470,22.0,16.0,"meknes, morocco",arabic16,arabic,male,471,morocco
+511,511,35.0,15.0,"settat, morocco",arabic17,arabic,male,512,morocco
+538,538,18.0,6.0,"kuwait city, kuwait",arabic18,arabic,male,539,kuwait
+624,624,43.0,18.0,"khouribga, morocco",arabic19,arabic,male,625,morocco
+642,642,36.0,12.0,"chtaura, beqa valley, lebanon",arabic20,arabic,male,643,lebanon
+926,926,42.0,13.0,"al mahalla, egypt",arabic23,arabic,male,927,egypt
+969,969,40.0,7.0,"cairo, egypt",arabic24,arabic,male,970,egypt
+1010,1010,38.0,5.0,"ramun, israel (occupied territory)",arabic25,arabic,male,1011,israel (occupied territory)
+1012,1012,70.0,10.0,"jerusalem, israel",arabic27,arabic,male,1013,israel
+1114,1114,30.0,12.0,"al-ayn, united arab emirates",arabic28,arabic,male,1115,united arab emirates
+1115,1115,19.0,17.0,"doha, qatar",arabic29,arabic,male,1116,qatar
+1202,1202,42.0,12.0,"baghdad, iraq",arabic32,arabic,male,1203,iraq
+1390,1390,56.0,16.0,"jiddah, saudi arabia",arabic35,arabic,male,1391,saudi arabia
+1391,1391,36.0,6.0,"jiddah, saudi arabia",arabic36,arabic,male,1392,saudi arabia
+1392,1392,18.0,16.0,"jiddah, saudi arabia",arabic37,arabic,male,1393,saudi arabia
+1404,1404,22.0,5.0,"jiddah, saudi arabia",arabic39,arabic,male,1405,saudi arabia
+1419,1419,19.0,13.0,"jiddah, saudi arabia",arabic40,arabic,male,1420,saudi arabia
+1420,1420,25.0,7.0,"riyadh, saudi arabia",arabic41,arabic,male,1421,saudi arabia
+1421,1421,21.0,13.0,"jiddah, saudi arabia",arabic42,arabic,male,1422,saudi arabia
+1456,1456,28.0,13.0,"jiddah, saudi arabia",arabic46,arabic,male,1457,saudi arabia
+1457,1457,39.0,16.0,"jiddah, saudi arabia",arabic47,arabic,male,1458,saudi arabia
+1458,1458,29.0,12.0,"mecca, saudi arabia",arabic48,arabic,male,1459,saudi arabia
+1459,1459,26.0,8.0,"medina, saudi arabia",arabic49,arabic,male,1460,saudi arabia
+1460,1460,36.0,22.0,"jiddah, saudi arabia",arabic50,arabic,male,1461,saudi arabia
+1485,1485,23.0,12.0,"jiddah, saudi arabia",arabic51,arabic,male,1486,saudi arabia
+1525,1525,36.0,17.0,"rabat, morocco",arabic53,arabic,male,1526,morocco
+1564,1564,22.0,7.0,"baghdad, iraq",arabic54,arabic,male,1565,iraq
+1568,1568,70.0,33.0,"beirut, lebanon",arabic55,arabic,male,1569,lebanon
+1676,1676,43.0,12.0,"ain defla, algeria",arabic56,arabic,male,1677,algeria
+1699,1699,34.0,9.0,"baghdad, iraq",arabic58,arabic,male,1700,iraq
+1701,1701,55.0,9.0,"irbid, jordan",arabic59,arabic,male,1702,jordan
+1710,1710,60.0,14.0,"cairo, egypt",arabic60,arabic,male,1711,egypt
+1752,1752,20.0,7.0,"manama, bahrain",arabic61,arabic,male,1753,bahrain
+1767,1767,19.0,18.0,"ad dammam, saudi arabia",arabic62,arabic,male,1768,saudi arabia
+1776,1776,23.0,6.0,"riyadh, saudi arabia",arabic64,arabic,male,1777,saudi arabia
+1783,1783,50.0,14.0,"medina, saudi arabia",arabic66,arabic,male,1784,saudi arabia
+1784,1784,43.0,22.0,"nasriah, iraq",arabic67,arabic,male,1785,iraq
+1804,1804,20.0,6.0,"london, uk",arabic68,arabic,male,1805,uk
+1826,1826,47.0,16.0,"casablanca, morocco",arabic70,arabic,male,1827,morocco
+1869,1869,18.0,4.0,"alexandria, egypt",arabic74,arabic,male,1870,egypt
+1891,1891,25.0,4.0,"jiddah, saudi arabia",arabic76,arabic,male,1892,saudi arabia
+1900,1900,25.0,11.0,"najran, saudi arabia",arabic80,arabic,male,1901,saudi arabia
+1913,1913,22.0,17.0,"riyadh, saudi arabia",arabic81,arabic,male,1914,saudi arabia
+1916,1916,42.0,12.0,"damascus, syria",arabic82,arabic,male,1917,syria
+1919,1919,22.0,21.0,"riyadh, saudi arabia",arabic83,arabic,male,1920,saudi arabia
+1963,1963,28.0,3.0,"cairo, egypt",arabic86,arabic,male,1964,egypt
+2086,2086,36.0,10.0,"baghdad, iraq",arabic92,arabic,male,2087,iraq
+2152,2152,21.0,7.0,"riyadh, saudi arabia",arabic96,arabic,male,2153,saudi arabia
+2159,2159,21.0,10.0,"doha, qatar",arabic101,arabic,male,2160,qatar
+2160,2160,22.0,3.0,"jiddah, saudi arabia",arabic102,arabic,male,2161,saudi arabia

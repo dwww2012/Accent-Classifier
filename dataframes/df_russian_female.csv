@@ -1,0 +1,28 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+299,299,20.0,5.0,"moscow, russia",russian10,russian,female,300,russia
+301,301,50.0,10.0,"izmail, ukraine",russian2,russian,female,302,ukraine
+302,302,35.0,6.0,"zaporizhzhya, ukraine",russian3,russian,female,303,ukraine
+303,303,68.0,38.0,"moscow, russia",russian4,russian,female,304,russia
+304,304,25.0,15.0,"khabarovsk, russia",russian5,russian,female,305,russia
+305,305,26.0,11.0,"moscow, russia",russian6,russian,female,306,russia
+306,306,54.0,13.0,"kiev, ukraine",russian7,russian,female,307,ukraine
+646,646,34.0,12.0,"ayaguz, kazakhstan",russian15,russian,female,647,kazakhstan
+910,910,28.0,17.0,"kostanai, kazakhstan",russian20,russian,female,911,kazakhstan
+953,953,46.0,10.0,"moscow, russia",russian21,russian,female,954,russia
+1056,1056,21.0,5.0,"zaporizhzhya, ukraine",russian23,russian,female,1057,ukraine
+1072,1072,33.0,19.0,"sochi, russia",russian24,russian,female,1073,russia
+1095,1095,58.0,41.0,"orhei, moldova",russian25,russian,female,1096,moldova
+1096,1096,23.0,17.0,"chisinau, moldova",russian26,russian,female,1097,moldova
+1197,1197,25.0,11.0,"minsk, belarus",russian28,russian,female,1198,belarus
+1313,1313,31.0,14.0,"kiev, ukraine",russian32,russian,female,1314,ukraine
+1316,1316,24.0,17.0,"karaganda, kazakhstan",russian33,russian,female,1317,kazakhstan
+1749,1749,25.0,5.0,"brooklyn, new york, usa",russian39,russian,female,1750,usa
+1773,1773,23.0,8.0,"bishkek, kyrgyzstan",russian40,russian,female,1774,kyrgyzstan
+1843,1843,30.0,10.0,"nizhni novgorod, russia",russian41,russian,female,1844,russia
+1923,1923,24.0,4.0,"moscow, russia",russian42,russian,female,1924,russia
+1931,1931,27.0,8.0,"st. petersburg, russia",russian43,russian,female,1932,russia
+1946,1946,29.0,6.0,"penza, russia",russian44,russian,female,1947,russia
+2026,2026,68.0,14.0,"st. petersburg, russia",russian45,russian,female,2027,russia
+2104,2104,24.0,7.0,"perm, russia",russian46,russian,female,2105,russia
+2106,2106,26.0,6.0,"saransk, russia",russian47,russian,female,2107,russia
+2136,2136,29.0,6.0,"fergana, uzbekistan",russian48,russian,female,2137,uzbekistan

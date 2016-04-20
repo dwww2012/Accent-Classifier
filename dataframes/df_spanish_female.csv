@@ -1,0 +1,69 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+324,324,49.0,28.0,"lima, peru",spanish11,spanish,female,325,peru
+326,326,29.0,11.0,"duitama, colombia",spanish13,spanish,female,327,colombia
+327,327,34.0,15.0,"pereira, colombia",spanish14,spanish,female,328,colombia
+330,330,22.0,9.0,"puebla, mexico",spanish17,spanish,female,331,mexico
+332,332,25.0,17.0,"havana, cuba",spanish19,spanish,female,333,cuba
+336,336,32.0,11.0,"madrid, spain",spanish22,spanish,female,337,spain
+342,342,20.0,18.0,"san miguel, el salvador",spanish28,spanish,female,343,el salvador
+343,343,17.0,16.0,"bogota, colombia",spanish3,spanish,female,344,colombia
+344,344,21.0,17.0,"cabanas, el salvador",spanish4,spanish,female,345,el salvador
+345,345,52.0,13.0,"bogota, colombia",spanish5,spanish,female,346,colombia
+347,347,21.0,20.0,"bogota, colombia",spanish7,spanish,female,348,colombia
+448,448,31.0,7.0,"guayaquil, ecuador",spanish31,spanish,female,449,ecuador
+574,574,50.0,17.0,"tegucigalpa, honduras",spanish37,spanish,female,575,honduras
+711,711,80.0,18.0,"bogota, colombia",spanish42,spanish,female,712,colombia
+714,714,47.0,12.0,"santiago-dr, dominican republic",spanish45,spanish,female,715,dominican republic
+715,715,37.0,4.0,"la romana, dominican republic",spanish44,spanish,female,716,dominican republic
+717,717,25.0,12.0,"santo domingo, dominican republic",spanish47,spanish,female,718,dominican republic
+776,776,29.0,21.0,"popayan, cauca, colombia",spanish52,spanish,female,777,colombia
+907,907,31.0,5.0,"mayaguez, puerto rico",spanish59,spanish,female,908,puerto rico
+914,914,18.0,9.0,"santiago-dr, dominican republic",spanish60,spanish,female,915,dominican republic
+924,924,63.0,19.0,"buenos aires, argentina",spanish62,spanish,female,925,argentina
+958,958,32.0,10.0,"la coruna, spain",spanish63,spanish,female,959,spain
+1110,1110,48.0,14.0,"santa marta, colombia",spanish67,spanish,female,1111,colombia
+1228,1228,20.0,7.0,"caracas, venezuela",spanish69,spanish,female,1229,venezuela
+1229,1229,30.0,10.0,"bogota, colombia",spanish70,spanish,female,1230,colombia
+1237,1237,20.0,5.0,"miami, florida, usa",spanish72,spanish,female,1238,usa
+1272,1272,28.0,5.0,"lima, peru",spanish75,spanish,female,1273,peru
+1337,1337,55.0,5.0,"lima, peru",spanish78,spanish,female,1338,peru
+1343,1343,70.0,22.0,"lamas, peru",spanish79,spanish,female,1344,peru
+1345,1345,77.0,75.0,"bogota, colombia",spanish80,spanish,female,1346,colombia
+1346,1346,63.0,7.0,"san juan, puerto rico",spanish81,spanish,female,1347,puerto rico
+1397,1397,19.0,4.0,"buenos aires, argentina",spanish84,spanish,female,1398,argentina
+1398,1398,44.0,6.0,"buenos aires, argentina",spanish85,spanish,female,1399,argentina
+1430,1430,23.0,3.0,"caracas, venezuela",spanish90,spanish,female,1431,venezuela
+1432,1432,20.0,7.0,"caracas, venezuela",spanish91,spanish,female,1433,venezuela
+1435,1435,29.0,18.0,"santa rosa, honduras",spanish93,spanish,female,1436,honduras
+1443,1443,31.0,21.0,"juarez, mexico",spanish95,spanish,female,1444,mexico
+1448,1448,29.0,12.0,"arequipa, peru",spanish96,spanish,female,1449,peru
+1449,1449,52.0,19.0,"bogota, colombia",spanish97,spanish,female,1450,colombia
+1505,1505,20.0,4.0,"lima, peru",spanish99,spanish,female,1506,peru
+1507,1507,30.0,26.0,"iquitos, peru",spanish100,spanish,female,1508,peru
+1573,1573,39.0,19.0,"la union, el salvador",spanish101,spanish,female,1574,el salvador
+1599,1599,28.0,20.0,"san miguel, el salvador",spanish104,spanish,female,1600,el salvador
+1612,1612,41.0,10.0,"jerez de la frontera, spain",spanish105,spanish,female,1613,spain
+1731,1731,22.0,8.0,"seville, spain",spanish114,spanish,female,1732,spain
+1743,1743,58.0,8.0,"la paz, bolivia",spanish115,spanish,female,1744,bolivia
+1805,1805,48.0,13.0,"monterrey, mexico",spanish118,spanish,female,1806,mexico
+1806,1806,40.0,11.0,"madrid, spain",spanish119,spanish,female,1807,spain
+1822,1822,25.0,2.0,"bogota, colombia",spanish120,spanish,female,1823,colombia
+1830,1830,26.0,10.0,"toluca, mexico",spanish122,spanish,female,1831,mexico
+1833,1833,57.0,14.0,"ilbague, colombia",spanish123,spanish,female,1834,colombia
+1852,1852,54.0,5.0,"colon, panama",spanish126,spanish,female,1853,panama
+1868,1868,30.0,7.0,"lima, peru",spanish128,spanish,female,1869,peru
+1873,1873,47.0,30.0,"havana, cuba",spanish129,spanish,female,1874,cuba
+1903,1903,50.0,15.0,"rio piedras, puerto rico",spanish132,spanish,female,1904,puerto rico
+1920,1920,41.0,13.0,"la union, el salvador",spanish134,spanish,female,1921,el salvador
+1922,1922,41.0,22.0,"santiago de cuba, cuba",spanish135,spanish,female,1923,cuba
+1978,1978,24.0,21.0,"santa ana, el salvador",spanish137,spanish,female,1979,el salvador
+1979,1979,24.0,16.0,"san miguel, el salvador",spanish138,spanish,female,1980,el salvador
+1984,1984,37.0,31.0,"cochabamba, bolivia",spanish140,spanish,female,1985,bolivia
+2015,2015,59.0,8.0,"san salvador, el salvador",spanish142,spanish,female,2016,el salvador
+2050,2050,33.0,23.0,"florencia, zacatecas, mexico",spanish144,spanish,female,2051,mexico
+2051,2051,37.0,21.0,"florencia, zacatecas, mexico",spanish145,spanish,female,2052,mexico
+2095,2095,58.0,50.0,"bilwas karma, rio coco, nicaragua",spanish151,spanish,female,2096,nicaragua
+2141,2141,65.0,8.0,"montevideo, uruguay",spanish156,spanish,female,2142,uruguay
+2143,2143,19.0,3.0,"mexico city, mexico",spanish157,spanish,female,2144,mexico
+2147,2147,54.0,37.0,"santurce, puerto rico",spanish158,spanish,female,2148,puerto rico
+2155,2155,56.0,32.0,"leon, nicaragua",spanish161,spanish,female,2156,nicaragua

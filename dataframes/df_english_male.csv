@@ -1,0 +1,310 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+60,60,42.0,0.0,"pittsburgh, pennsylvania, usa",english1,english,male,61,usa
+64,64,22.0,0.0,"torrington, connecticut, usa",english102,english,male,65,usa
+65,65,21.0,0.0,"staten island, new york, usa",english103,english,male,66,usa
+69,69,69.0,0.0,"henley on thames, oxfordshire, uk",english13,english,male,70,uk
+70,70,40.0,0.0,"belfast, northern ireland, uk",english14,english,male,71,uk
+72,72,21.0,0.0,"wise, virginia, usa",english16,english,male,73,usa
+73,73,79.0,0.0,"darwin va, virginia, usa",english17,english,male,74,usa
+75,75,53.0,0.0,"louisville, kentucky, usa",english19,english,male,76,usa
+80,80,43.0,0.0,"englewood, tennessee, usa",english23,english,male,81,usa
+81,81,37.0,0.0,"glasgow, scotland, uk",english24,english,male,82,uk
+82,82,57.0,0.0,"atlanta, georgia, usa",english25,english,male,83,usa
+83,83,71.0,0.0,"smith island, maryland, usa",english26,english,male,84,usa
+85,85,54.0,0.0,"toronto, ontario, canada",english28,english,male,86,canada
+91,91,21.0,0.0,"san diego, california, usa",english33,english,male,92,usa
+94,94,60.0,0.0,"arcadia, wisconsin, usa",english36,english,male,95,usa
+96,96,27.0,0.0,"littlehampton, uk",english38,english,male,97,uk
+99,99,53.0,0.0,"dudley, uk",english40,english,male,100,uk
+100,100,44.0,0.0,"wellington, new zealand",english41,english,male,101,new zealand
+101,101,65.0,0.0,"nigel, south africa",english42,english,male,102,south africa
+102,102,47.0,0.0,"vancouver, british columbia, canada",english43,english,male,103,canada
+104,104,52.0,0.0,"pine bluff, arkansas, usa",english45,english,male,105,usa
+105,105,73.0,0.0,"creswell, north carolina, usa",english46,english,male,106,usa
+107,107,26.0,0.0,"port moresby, national capital district, papua new guinea",english48,english,male,108,papua new guinea
+108,108,43.0,0.0,"castro valley, california, usa",english49,english,male,109,usa
+109,109,62.0,0.0,"fairfax, virginia, usa",english5,english,male,110,usa
+111,111,67.0,0.0,"detroit, michigan, usa",english51,english,male,112,usa
+112,112,20.0,0.0,"calgary, alberta, canada",english52,english,male,113,canada
+113,113,63.0,0.0,"syracuse, new york, usa",english53,english,male,114,usa
+116,116,20.0,0.0,"londonderry, northern ireland, uk",english56,english,male,117,uk
+117,117,34.0,0.0,"birmingham 1, uk",english57,english,male,118,uk
+119,119,30.0,0.0,"columbus, ohio, usa",english59,english,male,120,usa
+121,121,18.0,0.0,"chesapeake, virginia, usa",english60,english,male,122,usa
+122,122,19.0,0.0,"toronto, ontario, canada",english61,english,male,123,canada
+123,123,30.0,0.0,"west jordan, utah, usa",english62,english,male,124,usa
+124,124,21.0,0.0,"lewisville, texas, usa",english63,english,male,125,usa
+126,126,47.0,0.0,"lewistown, pennsylvania, usa",english65,english,male,127,usa
+127,127,19.0,0.0,"baltimore, maryland, usa",english66,english,male,128,usa
+128,128,37.0,0.0,"princeton, indiana, usa",english67,english,male,129,usa
+129,129,52.0,0.0,"new york, new york, usa",english68,english,male,130,usa
+130,130,23.0,0.0,"adelaide, australia",english69,english,male,131,australia
+131,131,52.0,0.0,"macon, mississippi, usa",english7,english,male,132,usa
+132,132,21.0,0.0,"beaumont, texas, usa",english70,english,male,133,usa
+133,133,20.0,0.0,"west covina, california, usa",english71,english,male,134,usa
+134,134,31.0,0.0,"kilkenny, ireland",english72,english,male,135,ireland
+135,135,24.0,0.0,"darwin, australia",english73,english,male,136,australia
+136,136,21.0,0.0,"wichita, kansas, usa",english74,english,male,137,usa
+137,137,32.0,0.0,"idaho falls, idaho, usa",english75,english,male,138,usa
+139,139,26.0,0.0,"melbourne, australia",english77,english,male,140,australia
+141,141,73.0,0.0,"boston, massachusetts, usa",english79,english,male,142,usa
+143,143,34.0,0.0,"glasgow, scotland, uk",english80,english,male,144,uk
+144,144,30.0,0.0,"st. paul, minnesota, usa",english81,english,male,145,usa
+147,147,45.0,0.0,"sydney, australia",english84,english,male,148,australia
+148,148,31.0,0.0,"strabane, northern ireland, uk",english85,english,male,149,uk
+149,149,50.0,0.0,"charleston, south carolina, usa",english86,english,male,150,usa
+151,151,18.0,0.0,"grand rapids, michigan, usa",english88,english,male,152,usa
+152,152,18.0,0.0,"kingston ma, massachusetts, usa",english89,english,male,153,usa
+154,154,53.0,0.0,"pittsburgh, pennsylvania, usa",english90,english,male,155,usa
+155,155,23.0,0.0,"kingston, jamaica",english91,english,male,156,jamaica
+159,159,18.0,0.0,"mishawaka, indiana, usa",english95,english,male,160,usa
+160,160,31.0,0.0,"point pleasant, new jersey, usa",english96,english,male,161,usa
+161,161,42.0,0.0,"wilmington nc, north carolina, usa",english97,english,male,162,usa
+162,162,22.0,0.0,"spokane, washington, usa",english98,english,male,163,usa
+406,406,57.0,0.0,"windsor, ontario, canada",english105,english,male,407,canada
+415,415,19.0,0.0,"chicago, illinois, usa",english107,english,male,416,usa
+418,418,21.0,0.0,"strabane, northern ireland, uk",english108,english,male,419,uk
+420,420,21.0,0.0,"great yarmouth, norfolk, uk",english110,english,male,421,uk
+425,425,21.0,0.0,"bombay, india",english111,english,male,426,india
+426,426,21.0,0.0,"st. thomas, us virgin islands",english112,english,male,427,us virgin islands
+438,438,31.0,0.0,"wrexham, wales, uk",english113,english,male,439,uk
+442,442,31.0,0.0,"st. albans, hertfordshire, uk",english115,english,male,443,uk
+443,443,56.0,0.0,"atlanta, georgia, usa",english116,english,male,444,usa
+445,445,19.0,0.0,"akron, ohio, usa",english118,english,male,446,usa
+455,455,65.0,0.0,"saskatoon, saskatchewan, canada",english120,english,male,456,canada
+464,464,21.0,0.0,"waconia, minnesota, usa",english121,english,male,465,usa
+479,479,38.0,0.0,"brooklyn, new york, usa",english124,english,male,480,usa
+484,484,28.0,0.0,"st. george, queensland, australia",english125,english,male,485,australia
+488,488,39.0,0.0,"new britain, connecticut, usa",english127,english,male,489,usa
+491,491,25.0,0.0,"blackpool, lancashire, uk",english129,english,male,492,uk
+495,495,32.0,0.0,"port elizabeth, south africa",english130,english,male,496,south africa
+496,496,23.0,0.0,"west palm beach, florida, usa",english131,english,male,497,usa
+506,506,22.0,0.0,"orange beach, alabama, usa",english135,english,male,507,usa
+507,507,25.0,0.0,"calgary, alberta, canada",english136,english,male,508,canada
+508,508,26.0,0.0,"charleston, west virginia, usa",english137,english,male,509,usa
+510,510,20.0,0.0,"providence, rhode island, usa",english139,english,male,511,usa
+514,514,43.0,0.0,"quezon city, philippines",english140,english,male,515,philippines
+515,515,19.0,0.0,"york, uk",english141,english,male,516,uk
+516,516,19.0,0.0,"avon, new york, usa",english142,english,male,517,usa
+517,517,42.0,0.0,"minneapolis, minnesota, usa",english143,english,male,518,usa
+518,518,24.0,0.0,"barneys river, nova scotia, canada",english144,english,male,519,canada
+520,520,18.0,0.0,"bury st. edmunds, uk",english145,english,male,521,uk
+521,521,22.0,0.0,"blytheville, arkansas, usa",english146,english,male,522,usa
+524,524,31.0,0.0,"sydney, australia",english148,english,male,525,australia
+525,525,18.0,0.0,"lawrenceville, georgia, usa",english149,english,male,526,usa
+526,526,31.0,0.0,"brownsville, kentucky, usa",english150,english,male,527,usa
+527,527,18.0,0.0,"baltimore, maryland, usa",english151,english,male,528,usa
+528,528,18.0,0.0,"adelaide, australia",english152,english,male,529,australia
+532,532,35.0,0.0,"brisbane, australia",english153,english,male,533,australia
+533,533,28.0,0.0,"glace bay, nova scotia, canada",english154,english,male,534,canada
+534,534,35.0,0.0,"oakland, california, usa",english155,english,male,535,usa
+535,535,33.0,0.0,"dublin, ireland",english156,english,male,536,ireland
+537,537,35.0,0.0,"fort worth, texas, usa",english157,english,male,538,usa
+540,540,18.0,0.0,"ottawa, ontario, canada",english159,english,male,541,canada
+546,546,41.0,0.0,"fairview park, ohio, usa",english163,english,male,547,usa
+548,548,38.0,0.0,"leeds, uk",english164,english,male,549,uk
+550,550,18.0,0.0,"glenside, pennsylvania, usa",english166,english,male,551,usa
+551,551,43.0,0.0,"lakeview, michigan, usa",english167,english,male,552,usa
+553,553,40.0,0.0,"oceanside, california, usa",english168,english,male,554,usa
+554,554,18.0,0.0,"cleveland, mississippi, usa",english169,english,male,555,usa
+562,562,21.0,0.0,"st. louis, missouri, usa",english171,english,male,563,usa
+563,563,49.0,0.0,"kingston, jamaica",english172,english,male,564,jamaica
+566,566,19.0,0.0,"libertyville, illinois, usa",english173,english,male,567,usa
+571,571,24.0,0.0,"seattle, washington, usa",english175,english,male,572,usa
+582,582,30.0,0.0,"wilkes-barre, pennsylvania, usa",english178,english,male,583,usa
+583,583,57.0,0.0,"huron, south dakota, usa",english179,english,male,584,usa
+584,584,20.0,0.0,"newport, rhode island, usa",english180,english,male,585,usa
+585,585,68.0,0.0,"new eagle, pennsylvania, usa",english181,english,male,586,usa
+589,589,50.0,0.0,"troy, new york, usa",english182,english,male,590,usa
+603,603,38.0,0.0,"oxford, uk",english185,english,male,604,uk
+610,610,35.0,0.0,"edinburgh, scotland, uk",english188,english,male,611,uk
+616,616,19.0,0.0,"grand forks, north dakota, usa",english189,english,male,617,usa
+617,617,27.0,0.0,"oak park, illinois, usa",english190,english,male,618,usa
+630,630,19.0,0.0,"las cruces, new mexico, usa",english191,english,male,631,usa
+636,636,32.0,0.0,"honolulu, hawaii, usa",english193,english,male,637,usa
+637,637,19.0,0.0,"manchester, england, uk",english194,english,male,638,uk
+661,661,22.0,0.0,"iowa city, iowa, usa",english197,english,male,662,usa
+662,662,56.0,0.0,"washington, district of columbia, usa",english198,english,male,663,usa
+663,663,25.0,0.0,"bay shore, new york, usa",english199,english,male,664,usa
+672,672,19.0,0.0,"crisfield, maryland, usa",english202,english,male,673,usa
+677,677,53.0,0.0,"chicago, illinois, usa",english204,english,male,678,usa
+694,694,46.0,0.0,"washington, dc, usa",english208,english,male,695,usa
+719,719,30.0,0.0,"worcester, massachusetts, usa",english211,english,male,720,usa
+728,728,24.0,0.0,"spartanburg, south carolina, usa",english212,english,male,729,usa
+733,733,38.0,0.0,"dodge city, kansas, usa",english213,english,male,734,usa
+736,736,26.0,0.0,"myrtle beach, south carolina, usa",english214,english,male,737,usa
+737,737,20.0,0.0,"lemington spa, warwickshire, uk",english215,english,male,738,uk
+739,739,66.0,0.0,"harrow, middlesex, uk",english217,english,male,740,uk
+753,753,45.0,0.0,"london, uk",english221,english,male,754,uk
+766,766,18.0,0.0,"erie, pennsylvania, usa",english223,english,male,767,usa
+767,767,20.0,0.0,"bridgetown, barbados",english224,english,male,768,barbados
+770,770,50.0,0.0,"dundee, scotland, uk",english225,english,male,771,uk
+771,771,38.0,0.0,"walton-on-thames, surrey, uk",english226,english,male,772,uk
+774,774,25.0,0.0,"burlington, vermont, usa",english229,english,male,775,usa
+775,775,35.0,0.0,"launceston, tasmania, australia",english230,english,male,776,australia
+790,790,22.0,0.0,"tampa, florida, usa",english231,english,male,791,usa
+793,793,49.0,0.0,"bloomington, indiana, usa",english234,english,male,794,usa
+798,798,44.0,0.0,"st. charles, illinois, usa",english236,english,male,799,usa
+802,802,19.0,0.0,"fort kobbe, panama",english239,english,male,803,panama
+814,814,26.0,0.0,"guelph, ontario, canada",english240,english,male,815,canada
+819,819,27.0,0.0,"fredericton, new brunswick, canada",english243,english,male,820,canada
+820,820,23.0,0.0,"san francisco, california, usa",english244,english,male,821,usa
+823,823,25.0,0.0,"pittsburgh, pennsylvania, usa",english245,english,male,824,usa
+824,824,32.0,0.0,"los angeles, california, usa",english246,english,male,825,usa
+834,834,33.0,0.0,"prince rupert, british columbia, canada",english247,english,male,835,canada
+851,851,19.0,0.0,"chester, england, uk",english250,english,male,852,uk
+854,854,21.0,0.0,"mt. kisco, new york, usa",english251,english,male,855,usa
+856,856,21.0,0.0,"dublin, ireland",english253,english,male,857,ireland
+857,857,39.0,0.0,"eugene, oregon, usa",english254,english,male,858,usa
+860,860,23.0,0.0,"laurinburg, north carolina, usa",english256,english,male,861,usa
+862,862,24.0,0.0,"san diego, california, usa",english257,english,male,863,usa
+868,868,24.0,0.0,"kilkenny, ireland",english258,english,male,869,ireland
+869,869,23.0,0.0,"singapore, singapore",english259,english,male,870,singapore
+875,875,60.0,0.0,"naylor, maryland, usa",english262,english,male,876,usa
+883,883,21.0,0.0,"oak forest, illinois, usa",english263,english,male,884,usa
+888,888,21.0,0.0,"freemont, california, usa",english264,english,male,889,usa
+889,889,31.0,0.0,"vancouver wa, washington, usa",english265,english,male,890,usa
+898,898,18.0,0.0,"san diego, california, usa",english266,english,male,899,usa
+899,899,66.0,0.0,"leeds, uk",english267,english,male,900,uk
+902,902,29.0,0.0,"cape town, south africa",english270,english,male,903,south africa
+904,904,20.0,0.0,"dallas, texas, usa",english272,english,male,905,usa
+906,906,46.0,0.0,"blue bell, pennsylvania, usa",english273,english,male,907,usa
+936,936,23.0,0.0,"ramsey mn, minnesota, usa",english281,english,male,937,usa
+938,938,20.0,0.0,"tampa, florida, usa",english282,english,male,939,usa
+950,950,18.0,0.0,"pelham, new york, usa",english283,english,male,951,usa
+951,951,33.0,0.0,"gainesville, florida, usa",english284,english,male,952,usa
+960,960,50.0,0.0,"melbourne, australia",english285,english,male,961,australia
+985,985,20.0,0.0,"duluth, georgia, usa",english290,english,male,986,usa
+1025,1025,18.0,0.0,"belize city, belize",english291,english,male,1026,belize
+1050,1050,38.0,0.0,"kansas city, missouri, usa",english292,english,male,1051,usa
+1066,1066,25.0,0.0,"airdrie, alberta, canada",english295,english,male,1067,canada
+1070,1070,19.0,0.0,"lindenhurst, new york, usa",english297,english,male,1071,usa
+1071,1071,22.0,0.0,"lismore, new south wales, australia",english298,english,male,1072,australia
+1074,1074,59.0,0.0,"windsor, ontario, canada",english299,english,male,1075,canada
+1075,1075,18.0,0.0,"dublin, ireland",english300,english,male,1076,ireland
+1077,1077,41.0,0.0,"toronto, ontario, canada",english301,english,male,1078,canada
+1084,1084,22.0,0.0,"melbourne, australia",english302,english,male,1085,australia
+1099,1099,48.0,0.0,"alexandria, va, usa",english307,english,male,1100,usa
+1100,1100,34.0,0.0,"cardiff, wales, uk",english308,english,male,1101,uk
+1118,1118,28.0,0.0,"silver spring, maryland, usa",english313,english,male,1119,usa
+1120,1120,25.0,0.0,"los angeles, california, usa",english315,english,male,1121,usa
+1121,1121,33.0,0.0,"sacramento, california, usa",english316,english,male,1122,usa
+1131,1131,26.0,0.0,"burlington, vermont, usa",english317,english,male,1132,usa
+1136,1136,46.0,0.0,"sarnia, ontario, canada",english318,english,male,1137,canada
+1137,1137,29.0,0.0,"grimsby, lincolnshire, uk",english319,english,male,1138,uk
+1162,1162,52.0,0.0,"brooklyn, new york, usa",english321,english,male,1163,usa
+1171,1171,29.0,0.0,"yorkton, saskatchewan, canada",english322,english,male,1172,canada
+1173,1173,28.0,0.0,"st. marys, ontario, canada",english324,english,male,1174,canada
+1175,1175,32.0,0.0,"reading, pennsylvania, usa",english325,english,male,1176,usa
+1187,1187,53.0,0.0,"fairborn, ohio, usa",english326,english,male,1188,usa
+1204,1204,27.0,0.0,"dunedin, florida, usa",english327,english,male,1205,usa
+1215,1215,6.0,0.0,"washington, district of columbia, usa",english335,english,male,1216,usa
+1219,1219,54.0,0.0,"chicago, illinois, usa",english339,english,male,1220,usa
+1221,1221,19.0,0.0,"charleston, west virginia, usa",english340,english,male,1222,usa
+1224,1224,33.0,0.0,"kansas city, missouri, usa",english342,english,male,1225,usa
+1225,1225,23.0,0.0,"portland, maine, usa",english343,english,male,1226,usa
+1232,1232,20.0,0.0,"kansas city, missouri, usa",english345,english,male,1233,usa
+1234,1234,60.0,0.0,"east hartford, connecticut, usa",english346,english,male,1235,usa
+1241,1241,37.0,0.0,"carthage, missouri, usa",english351,english,male,1242,usa
+1242,1242,25.0,0.0,"singapore, singapore",english352,english,male,1243,singapore
+1245,1245,18.0,0.0,"saskatoon, saskatchewan, canada",english353,english,male,1246,canada
+1255,1255,19.0,0.0,"los angeles, california, usa",english355,english,male,1256,usa
+1257,1257,24.0,0.0,"alto, georgia, usa",english357,english,male,1258,usa
+1258,1258,19.0,0.0,"fredericton, new brunswick, canada",english358,english,male,1259,canada
+1275,1275,32.0,0.0,"sackville, new brunswick, canada",english359,english,male,1276,canada
+1280,1280,21.0,0.0,"cork, ireland",english362,english,male,1281,ireland
+1286,1286,20.0,0.0,"castle donington, uk",english363,english,male,1287,uk
+1291,1291,52.0,0.0,"oxford, uk",english365,english,male,1292,uk
+1294,1294,43.0,0.0,"strattford-on-avon, uk",english368,english,male,1295,uk
+1296,1296,27.0,0.0,"mcminnville, oregon, usa",english369,english,male,1297,usa
+1301,1301,22.0,0.0,"pondicherry, india",english370,english,male,1302,india
+1306,1306,80.0,0.0,"christiansburg, virginia, usa",english372,english,male,1307,usa
+1307,1307,22.0,0.0,"russellville, kentucky, usa",english373,english,male,1308,usa
+1309,1309,36.0,0.0,"milford haven, wales, uk",english374,english,male,1310,uk
+1311,1311,28.0,0.0,"manchester, connecticut, usa",english375,english,male,1312,usa
+1314,1314,46.0,0.0,"pasadena, california, usa",english376,english,male,1315,usa
+1320,1320,43.0,0.0,"summit, new jersey, usa",english379,english,male,1321,usa
+1323,1323,85.0,0.0,"pike county, kentucky, usa",english381,english,male,1324,usa
+1324,1324,34.0,0.0,"arlington, virginia, usa",english382,english,male,1325,usa
+1326,1326,57.0,0.0,"williamson, west virginia, usa",english384,english,male,1327,usa
+1333,1333,74.0,0.0,"milwaukee, wisconsin, usa",english390,english,male,1334,usa
+1335,1335,62.0,0.0,"warrenton, virginia, usa",english392,english,male,1336,usa
+1339,1339,39.0,0.0,"alexandria, virginia, usa",english395,english,male,1340,usa
+1348,1348,26.0,0.0,"lucerne, switzerland",english401,english,male,1349,switzerland
+1351,1351,29.0,0.0,"windsor, australia",english404,english,male,1352,australia
+1359,1359,47.0,0.0,"windsor, ontario, canada",english407,english,male,1360,canada
+1360,1360,64.0,0.0,"lynwood, california, usa",english408,english,male,1361,usa
+1362,1362,35.0,0.0,"hamilton, new zealand",english410,english,male,1363,new zealand
+1374,1374,32.0,0.0,"woonsocket, rhode island, usa",english415,english,male,1375,usa
+1376,1376,34.0,0.0,"sydney, australia",english416,english,male,1377,australia
+1383,1383,29.0,0.0,"arlington, virginia",english418,english,male,1384,virginia
+1384,1384,27.0,0.0,"youngstown, ohio, usa",english419,english,male,1385,usa
+1386,1386,21.0,0.0,"auckland, new zealand",english420,english,male,1387,new zealand
+1387,1387,38.0,0.0,"landstuhl, germany",english421,english,male,1388,germany
+1389,1389,31.0,0.0,"rochester, new york, usa",english422,english,male,1390,usa
+1408,1408,75.0,0.0,"danville, virginia, usa",english424,english,male,1409,usa
+1409,1409,31.0,0.0,"danville, virginia, usa",english425,english,male,1410,usa
+1468,1468,24.0,0.0,"kansas city, kansas, usa",english434,english,male,1469,usa
+1476,1476,21.0,0.0,"cleveland, ohio, usa",english437,english,male,1477,usa
+1527,1527,23.0,0.0,"salisbury mills, new york, usa",english442,english,male,1528,usa
+1529,1529,31.0,0.0,"fort collins, colorado, usa",english443,english,male,1530,usa
+1530,1530,24.0,0.0,"anniston, alabama, usa",english444,english,male,1531,usa
+1531,1531,60.0,0.0,"san francisco, california, usa",english445,english,male,1532,usa
+1533,1533,21.0,0.0,"hartford, connecticut, usa",english447,english,male,1534,usa
+1535,1535,20.0,0.0,"isle of arran, scotland, uk",english448,english,male,1536,uk
+1537,1537,27.0,0.0,"barton, vermont, usa",english449,english,male,1538,usa
+1543,1543,26.0,0.0,"windsor, uk",english450,english,male,1544,uk
+1545,1545,44.0,0.0,"hazlehurst, georgia, usa",english451,english,male,1546,usa
+1546,1546,24.0,0.0,"newcastle, australia",english452,english,male,1547,australia
+1554,1554,43.0,0.0,"syracuse, new york, usa",english457,english,male,1555,usa
+1559,1559,19.0,0.0,"charlotte, north carolina, usa",english459,english,male,1560,usa
+1563,1563,20.0,0.0,"paducah, kentucky, usa",english462,english,male,1564,usa
+1617,1617,27.0,0.0,"ottawa, ontario, canada",english464,english,male,1618,canada
+1634,1634,20.0,0.0,"aylesbury, buckinghamshire, uk",english465,english,male,1635,uk
+1636,1636,18.0,0.0,"portland, maine, usa",english466,english,male,1637,usa
+1638,1638,23.0,1.0,"pozzuoli, italy",english467,english,male,1639,italy
+1639,1639,30.0,0.0,"myrtle beach, south carolina, usa",english468,english,male,1640,usa
+1640,1640,22.0,0.0,"knoxville, tennessee, usa",english469,english,male,1641,usa
+1641,1641,21.0,0.0,"leighton buzzard, uk",english470,english,male,1642,uk
+1648,1648,26.0,0.0,"rota, spain",english472,english,male,1649,spain
+1649,1649,20.0,0.0,"nottingham, uk",english473,english,male,1650,uk
+1660,1660,19.0,0.0,"sydney, nova scotia, canada",english478,english,male,1661,canada
+1664,1664,58.0,0.0,"winston-salem, north carolina, usa",english480,english,male,1665,usa
+1667,1667,19.0,0.0,"boston, massachusetts, usa",english483,english,male,1668,usa
+1671,1671,24.0,0.0,"dublin, ireland",english484,english,male,1672,ireland
+1673,1673,20.0,0.0,"cromwell, connecticut, usa",english485,english,male,1674,usa
+1708,1708,18.0,0.0,"auckland, new zealand",english490,english,male,1709,new zealand
+1717,1717,20.0,0.0,"miami, florida, usa",english493,english,male,1718,usa
+1718,1718,27.5,0.0,"findlay, ohio, usa",english494,english,male,1719,usa
+1719,1719,21.0,0.0,"kirkland, washington, usa",english495,english,male,1720,usa
+1723,1723,20.0,0.0,"london, england, uk",english496,english,male,1724,uk
+1725,1725,22.0,0.0,"cleveland, ohio, usa",english497,english,male,1726,usa
+1726,1726,27.0,0.0,"prince george, british columbia, canada",english498,english,male,1727,canada
+1732,1732,38.0,0.0,"albury, new south wales, australia",english500,english,male,1733,australia
+1785,1785,25.0,0.0,"west palm beach, florida, usa",english504,english,male,1786,usa
+1799,1799,21.0,0.0,"accra, ghana",english507,english,male,1800,ghana
+1871,1871,57.0,0.0,"youngstown, ohio, usa",english514,english,male,1872,usa
+1875,1875,33.0,0.0,"colorado springs, colorado, usa",english517,english,male,1876,usa
+1877,1877,24.0,0.0,"kells, meath, ireland",english518,english,male,1878,ireland
+1889,1889,19.0,0.0,"downers grove, illinois, usa",english524,english,male,1890,usa
+1894,1894,20.0,0.0,"woodbridge, virginia, usa",english526,english,male,1895,usa
+1961,1961,60.0,0.0,"toronto, ontario, canada",english542,english,male,1962,canada
+1969,1969,31.0,0.0,"hanover, new hampshire, usa",english544,english,male,1970,usa
+1994,1994,56.0,0.0,"tangier island, virginia, usa",english545,english,male,1995,usa
+1996,1996,63.0,0.0,"tangier island, virginia, usa",english547,english,male,1997,usa
+2002,2002,61.0,0.0,"dublin, ireland",english548,english,male,2003,ireland
+2027,2027,82.0,0.0,"fredericksburg, virginia, usa",english550,english,male,2028,usa
+2045,2045,21.0,0.0,"nashville, tennessee, usa",english553,english,male,2046,usa
+2048,2048,90.0,0.0,"brooklyn, new york, usa",english555,english,male,2049,usa
+2054,2054,23.0,0.0,"queens, new york, usa",english558,english,male,2055,usa
+2073,2073,32.0,0.0,"manassas, virginia, usa",english563,english,male,2074,usa
+2076,2076,52.0,0.0,"casper, wyoming, usa",english564,english,male,2077,usa
+2080,2080,22.0,0.0,"derby, england, uk",english566,english,male,2081,uk
+2100,2100,24.0,0.0,"new york, new york, usa",english567,english,male,2101,usa
+2103,2103,24.0,0.0,"sydney, australia",english569,english,male,2104,australia
+2112,2112,39.0,0.0,"washington, dc, usa",english571,english,male,2113,usa
+2120,2120,51.0,0.0,"fort worth, texas, usa",english572,english,male,2121,usa
+2123,2123,46.0,0.0,"painesville, ohio, usa",english573,english,male,2124,usa
+2164,2164,24.0,0.0,"great falls, virginia, usa",english575,english,male,2165,usa
+2170,2170,60.0,0.0,"salford, lancashire, uk",english578,english,male,2171,uk
+2171,2171,22.0,0.0,"adelaide, australia",english579,english,male,2172,australia

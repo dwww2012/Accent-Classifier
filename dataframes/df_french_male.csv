@@ -1,0 +1,33 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+179,179,19.0,14.0,"tunis, tunisia",french2,french,male,180,tunisia
+184,184,18.0,5.0,"rimouski, quebec, canada",french7,french,male,185,canada
+185,185,66.0,16.0,"ghent, belgium",french8,french,male,186,belgium
+411,411,21.0,11.0,"lamentin, martinique",french9,french,male,412,martinique
+499,499,31.0,10.0,"bordeaux, france",french10,french,male,500,france
+513,513,31.0,11.0,"limoges, france",french11,french,male,514,france
+627,627,19.0,12.0,"bordeaux, france",french13,french,male,628,france
+632,632,32.0,12.0,"sens, france",french15,french,male,633,france
+682,682,39.0,14.0,"fribourg, switzerland",french17,french,male,683,switzerland
+740,740,22.0,6.0,"washington, dc, usa",french18,french,male,741,usa
+754,754,39.0,12.0,"grenoble, france",french19,french,male,755,france
+803,803,23.0,12.0,"alma, quebec, canada",french20,french,male,804,canada
+810,810,20.0,9.0,"amiens, france",french21,french,male,811,france
+831,831,47.0,13.0,"mostaganem, algeria",french24,french,male,832,algeria
+859,859,20.0,12.0,"st. louis fr, france",french25,french,male,860,france
+1022,1022,37.0,12.0,"kinshasa, democratic republic of congo",french30,french,male,1023,democratic republic of congo
+1061,1061,28.0,15.0,"paris, france",french31,french,male,1062,france
+1079,1079,60.0,16.0,"kabinda, democratic republic of congo",french32,french,male,1080,democratic republic of congo
+1126,1126,62.0,10.0,"montreal, quebec, canada",french33,french,male,1127,canada
+1159,1159,56.0,16.0,"abidjan, ivory coast",french34,french,male,1160,ivory coast
+1188,1188,27.0,10.0,"toulouse, france",french35,french,male,1189,france
+1305,1305,42.0,14.0,"strasbourg, france",french37,french,male,1306,france
+1423,1423,22.0,8.0,"montreal, quebec, canada",french38,french,male,1424,canada
+1426,1426,28.0,13.0,"pezenas, france",french39,french,male,1427,france
+1473,1473,24.0,12.0,"la massana, andorra",french41,french,male,1474,andorra
+1534,1534,22.0,11.0,"paris, france",french43,french,male,1535,france
+1566,1566,22.0,8.0,"montreal, quebec, canada",french45,french,male,1567,canada
+1642,1642,22.0,10.0,"chatenay malabry, france",french46,french,male,1643,france
+1728,1728,39.0,12.0,"paris, france",french49,french,male,1729,france
+1764,1764,18.0,5.0,"liege, wallonia, belgium",french51,french,male,1765,belgium
+1930,1930,23.0,12.0,"dakar, senegal",french57,french,male,1931,senegal
+2110,2110,37.0,11.0,"ouagadougou, burkina faso",french63,french,male,2111,burkina faso

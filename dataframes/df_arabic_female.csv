@@ -1,0 +1,43 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+10,10,38.0,12.0,"riyadh, saudi arabia",arabic1,arabic,female,11,saudi arabia
+12,12,30.0,14.0,"monastir, tunisia",arabic11,arabic,female,13,tunisia
+18,18,19.0,15.0,"casablanca, morocco",arabic5,arabic,female,19,morocco
+20,20,18.0,15.0,"casablanca, morocco",arabic7,arabic,female,21,morocco
+22,22,28.0,4.0,"jerusalem, israel",arabic9,arabic,female,23,israel
+669,669,46.0,30.0,"beirut, lebanon",arabic21,arabic,female,670,lebanon
+919,919,23.0,10.0,"abu dhabi, united arab emirates",arabic22,arabic,female,920,united arab emirates
+1011,1011,43.0,14.0,"amman, jordan",arabic26,arabic,female,1012,jordan
+1132,1132,19.0,8.0,"riyadh, saudi arabia",arabic30,arabic,female,1133,saudi arabia
+1180,1180,47.0,12.0,"baghdad, iraq",arabic31,arabic,female,1181,iraq
+1203,1203,28.0,11.0,"baghdad, iraq",arabic33,arabic,female,1204,iraq
+1252,1252,34.0,6.0,"kuwait city, kuwait",arabic34,arabic,female,1253,kuwait
+1393,1393,19.0,9.0,"shady grove, maryland, usa",arabic38,arabic,female,1394,usa
+1425,1425,29.0,8.0,"beirut, lebanon",arabic43,arabic,female,1426,lebanon
+1454,1454,29.0,7.0,"jiddah, saudi arabia",arabic44,arabic,female,1455,saudi arabia
+1455,1455,32.0,12.0,"fort collins, colorado, usa",arabic45,arabic,female,1456,usa
+1486,1486,21.0,9.0,"jiddah, saudi arabia",arabic52,arabic,female,1487,saudi arabia
+1698,1698,28.0,17.0,"beirut, lebanon",arabic57,arabic,female,1699,lebanon
+1768,1768,28.0,10.0,"bani walid, libya",arabic63,arabic,female,1769,libya
+1777,1777,32.0,10.0,"samail, oman",arabic65,arabic,female,1778,oman
+1809,1809,55.0,15.0,"kerma, sudan",arabic69,arabic,female,1810,sudan
+1827,1827,29.0,21.0,"kuwait city, kuwait",arabic71,arabic,female,1828,kuwait
+1831,1831,20.0,11.0,"baghdad, iraq",arabic72,arabic,female,1832,iraq
+1840,1840,47.0,7.0,"nazareth, israel",arabic73,arabic,female,1841,israel
+1884,1884,26.0,2.0,"riyadh, saudi arabia",arabic75,arabic,female,1885,saudi arabia
+1893,1893,18.0,4.0,"ad dammam, saudi arabia",arabic77,arabic,female,1894,saudi arabia
+1896,1896,19.0,3.0,"washington, district of columbia, usa",arabic78,arabic,female,1897,usa
+1898,1898,24.0,13.0,"medina, saudi arabia",arabic79,arabic,female,1899,saudi arabia
+1926,1926,26.0,12.0,"medina, saudi arabia",arabic84,arabic,female,1927,saudi arabia
+1962,1962,24.0,14.0,"ad dammam, saudi arabia",arabic85,arabic,female,1963,saudi arabia
+2004,2004,49.0,10.0,"kuwait city, kuwait",arabic87,arabic,female,2005,kuwait
+2007,2007,19.0,4.0,"beirut, lebanon",arabic88,arabic,female,2008,lebanon
+2021,2021,35.0,19.0,"baghdad, iraq",arabic89,arabic,female,2022,iraq
+2035,2035,23.0,12.0,"tripoli, libya",arabic90,arabic,female,2036,libya
+2085,2085,57.0,12.0,"riyadh, saudi arabia",arabic91,arabic,female,2086,saudi arabia
+2111,2111,27.0,10.0,"baghdad, iraq",arabic93,arabic,female,2112,iraq
+2113,2113,24.0,9.0,"abu dhabi, united arab emirates",arabic94,arabic,female,2114,united arab emirates
+2142,2142,31.0,10.0,"kuwait city, kuwait",arabic95,arabic,female,2143,kuwait
+2153,2153,19.0,4.0,"sharjah, united arab emirates",arabic97,arabic,female,2154,united arab emirates
+2154,2154,19.0,4.0,"ras al khaimah, united arab emirates",arabic98,arabic,female,2155,united arab emirates
+2156,2156,25.0,16.0,"ad dammam, saudi arabia",arabic99,arabic,female,2157,saudi arabia
+2158,2158,40.0,10.0,"beirut, lebanon",arabic100,arabic,female,2159,lebanon

@@ -1,0 +1,32 @@
+,Unnamed: 0,age,age_onset,birthplace,filename,native_language,sex,speakerid,country
+178,178,20.0,12.0,"st. laurent d'onay, france",french1,french,female,179,france
+180,180,22.0,11.0,"nice, france",french3,french,female,181,france
+181,181,31.0,14.0,"abidjan, ivory coast",french4,french,female,182,ivory coast
+182,182,36.0,11.0,"douala, cameroon",french5,french,female,183,cameroon
+183,183,26.0,13.0,"booue, gabon",french6,french,female,184,gabon
+523,523,19.0,9.0,"montreal, quebec, canada",french12,french,female,524,canada
+628,628,23.0,14.0,"paris, france",french14,french,female,629,france
+657,657,19.0,7.0,"montreal, quebec, canada",french16,french,female,658,canada
+821,821,78.0,16.0,"ghent, belgium",french22,french,female,822,belgium
+822,822,76.0,16.0,"ghent, belgium",french23,french,female,823,belgium
+916,916,27.0,11.0,"montreal, quebec, canada",french26,french,female,917,canada
+931,931,38.0,12.0,"algiers, algeria",french27,french,female,932,algeria
+956,956,35.0,11.0,"port-au-prince, haiti",french28,french,female,957,haiti
+1020,1020,54.0,10.0,"cannes, france",french29,french,female,1021,france
+1303,1303,32.0,10.0,"reims, france",french36,french,female,1304,france
+1428,1428,44.0,13.5,"rouen, france",french40,french,female,1429,france
+1508,1508,22.0,20.0,"kinshasa, democratic republic of congo",french42,french,female,1509,democratic republic of congo
+1544,1544,20.0,12.0,"la chaux-de-fonds, switzerland",french44,french,female,1545,switzerland
+1661,1661,66.0,12.0,"landerneau, brittany, france",french47,french,female,1662,france
+1700,1700,19.0,3.0,"douala, cameroon",french48,french,female,1701,cameroon
+1750,1750,67.0,14.0,"paris, france",french50,french,female,1751,france
+1812,1812,56.0,11.0,"lisbon, portugal",french52,french,female,1813,portugal
+1829,1829,19.0,10.0,"creteil, france",french53,french,female,1830,france
+1845,1845,25.0,8.0,"vichy, france",french54,french,female,1846,france
+1888,1888,62.0,12.0,"settat, morocco",french55,french,female,1889,morocco
+1897,1897,21.0,5.0,"douala, cameroon",french56,french,female,1898,cameroon
+1936,1936,25.0,18.0,"douala, cameroon",french58,french,female,1937,cameroon
+1937,1937,20.0,5.0,"paris, france",french59,french,female,1938,france
+1944,1944,20.0,11.0,"paris, france",french60,french,female,1945,france
+1997,1997,41.0,10.0,"rawalpindi, pakistan",french61,french,female,1998,pakistan
+2029,2029,21.0,20.0,"paris, france",french62,french,female,2030,france
