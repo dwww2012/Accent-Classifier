@@ -29,7 +29,8 @@ All of the speech files used for this project come from the [Speech Accent Archi
 
 The common nature of the dataset makes it ideal for studying accent, being that the wording is provided and the recording quality is (nearly) uniform across all speakers.
 
-<img alt="Sample Speaker Page" src="images/accent.gmu_sample.png" width=450>
+<img alt="Sample Speaker Page" src="images/accent.gmu_sample.png" width=800>
+
 <sub> <b> Figure 1: </b> Example [speech accent archive](http://accent.gmu.edu) page for a speaker, including the audio file, a phonetic transcription of their reading, as well as biographical data. </sub>
 
 For each of the bigger languages (defined by me as having at least 10 speakers represented in the dataset), I scraped the site and saved the mp3 files to folders and the biographical data to [csv files](https://github.com/dwww2012/Accent-Classifier/tree/master/dataframes)--for manipulation using Pandas DataFrames.
@@ -40,6 +41,7 @@ Having saved all the .mp3 files, I then converted them to .wav files, being that
 
 The .wav files themselves are routinely visualized as waveforms such as this:
 <img alt="English1 Waveform" src="images/english1.png" width=450>
+
 <sub> <b> Figure 2: </b> Waveform for the 'english1' file, showing speech power over time (roughly 20 seconds). </sub>
 
 Depicted here is the graph of a numerical representation of a 21 second audio file, corresponding essentially to energy (i.e. pressure) on the y-axis and time on the x-axis. Being that the sample rate is set at 44100 samples/sec, this gives us a 1-dimensional vector of nearly 1 million values in less than 30 seconds!
@@ -60,11 +62,13 @@ This is achieved through six steps:
 6. Keep DCT coefficients 2-13, discard the rest.
 
 <img alt="MFCC Flow" src="images/mfcc_flow.png" width=450>
+
 <sub> <b> Figure 3: </b> Schematic representation of the steps necessary to create a Mel frequency cepstral coefficient (MFCC) from an audio signal. </sub>
 
 The output of this process is a 13-dimensional vector, each dimension corresponding to a different band in human hearing.
 
 <img alt="English1 MFCCs" src="images/mfcc1.png" width=450>
+
 <sub> <b> Figure 4: </b> Visual representation of the 13 MFCCs for the 'english1' audio file over ~22s.  </sub>
 
 In my data, being that every speech instance was different, I had to normalize all of them to some standard, so that the MFCCs had the same dimensions. I chose to trim/pad them all to be ~30 seconds in length. Thus given that my MFCC moving window is 0.1s, this yielded MFCCs of shape (2999, 13).
@@ -97,6 +101,6 @@ After training both the CNN and RNN on the top 5 most common languages--those be
 
 ## Future Directions
 
-Going forward, my I would like to improve my net(s) so that they can distinguish more languages more reliably. That most likely will entail building deeper nets. Moreover, it is likely that I will simply need more and better data to do that. My training sets are on the order of hundreds of observations, which are very small numbers for a neural network. Moreover, many speakers have only faint accents. To train a model well, I would need to manually select only those speakers with a strong accent. 
+Going forward, my I would like to improve my net(s) so that they can distinguish more languages more reliably. That most likely will entail building deeper nets. Moreover, it is likely that I will simply need more and better data to do that. My training sets are on the order of hundreds of observations, which are very small numbers for a neural network. Moreover, many speakers have only faint accents. To train a model well, I would need to manually select only those speakers with a strong accent.
 
 My ultimate goal is to build a live web app that take 'wild' (i.e., unstructured) speech audio and make a prediction of the age, gender and geographic location/language of the speaker.
