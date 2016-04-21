@@ -31,6 +31,8 @@ X = np.load('top_3_100_split_mfcc.npy')
 y = np.load('top_3_100_split_y.npy')
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15)
+
+# in case the passed in data is 2d and not 3d
 '''
 xts = X_train.shape
 X_train = np.reshape(X_train, (xts[0], xts[1], 1))
@@ -41,28 +43,18 @@ y_train = np.reshape(y_train, (yts[0], 1))
 ytss = y_test.shape
 y_test = np.reshape(y_test, (ytss[0], 1))
 '''
+
 print(len(X_train), 'train sequences')
 print(len(X_test), 'test sequences')
 
 Y_train = np_utils.to_categorical(y_train, nb_classes)
 Y_test = np_utils.to_categorical(y_test, nb_classes)
 
-# print('Pad sequences (samples x time)')
-# X_train = sequence.pad_sequences(X_train, maxlen=maxlen)
-# X_test = sequence.pad_sequences(X_test, maxlen=maxlen)
-# print('X_train shape:', X_train.shape)
-# print('X_test shape:', X_test.shape)
 
 print('Build model...')
 model = Sequential()
 
-# we start off with an efficient embedding layer which maps
-# our vocab indices into embedding_dims dimensions
-# model.add(Embedding(max_features, embedding_dims, input_length=maxlen))
-# model.add(Dropout(0.25))
-
-# we add a Convolution1D, which will learn nb_filter
-# word group filters of size filter_length:
+# we add a Convolution1D, which will learn nb_filter mfcc groups:
 model.add(Convolution1D(nb_filter=nb_filter,
                         filter_length=filter_length_1,
                         input_shape=(test_dim, 13),
@@ -70,19 +62,22 @@ model.add(Convolution1D(nb_filter=nb_filter,
                         border_mode='valid',
                         activation='relu'
                         ))
-# we use standard max pooling (halving the output of the previous layer):
+
+# batch normalization to keep weights in the 0 to 1 range
 model.add(BatchNormalization())
 
-
+# add more layers
 model.add(Convolution1D(nb_filter=nb_filter,
-                        filter_length=filter_length_2,          
+                        filter_length=filter_length_2,
 			border_mode='valid',
                         activation='relu'
                         ))
 
 model.add(BatchNormalization())
 
+# we use standard max pooling (halving the output of the previous layer)
 model.add(MaxPooling1D(pool_length=2))
+
 
 model.add(Convolution1D(nb_filter=nb_filter,
                         filter_length=filter_length_2,
@@ -104,6 +99,7 @@ model.add(BatchNormalization())
 
 model.add(MaxPooling1D(pool_length=2))
 
+# Dropout reduces overfitting
 model.add(Dropout(.1))
 
 model.add(Convolution1D(nb_filter=nb_filter,
@@ -132,12 +128,7 @@ model.add(MaxPooling1D(pool_length=2))
 # so that we can add a vanilla dense layer:
 model.add(Flatten())
 
-# We add a vanilla hidden layer:
-#model.add(Dense(hidden_dims, init = 'glorot_normal'))
-#model.add(Dropout(0.2))
-#model.add(Activation('relu'))
-
-# We project onto a single unit output layer, and squash it with a sigmoid:
+# We project onto a single unit output layer, and squash it with a softmax into 0-1 probability space:
 model.add(Dense(nb_classes))
 model.add(Activation('softmax'))
 
@@ -147,5 +138,6 @@ model.fit(X_train, Y_train, batch_size=batch_size,
           nb_epoch=nb_epoch,  verbose=1,
           validation_data=(X_test, Y_test))
 
+# print report of recall, precision, f1 score 
 y_pred = model.predict_classes(X_test)
 print(classification_report(y_test, y_pred))

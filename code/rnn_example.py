@@ -2,15 +2,14 @@ from __future__ import print_function
 import numpy as np
 
 from keras.optimizers import SGD
-#from keras.utils.visualize_util import plot
+
 
 np.random.seed(1337)  # for reproducibility
 from keras.preprocessing import sequence
 from keras.utils import np_utils
 from keras.models import Sequential
-from keras.layers.core import Dense, Dropout, Activation, TimeDistributedDense
+from keras.layers.core import Dense, Dropout, Activation
 from keras.layers.recurrent import LSTM
-#from SpeechResearch import loadData
 from sklearn.cross_validation import train_test_split
 from sklearn.metrics import classification_report
 
@@ -33,27 +32,24 @@ print('Build model...')
 
 Y_train = np_utils.to_categorical(y_train, nb_classes)
 Y_test = np_utils.to_categorical(y_test, nb_classes)
-# print(batch_size, 99, X_train.shape[2])
-# print(X_train.shape[1:])
-# print(X_train.shape[2])
+
 model = Sequential()
 
-batch_input_shape= (batch_size, X_train.shape[1], X_train.shape[2])
+#batch_input_shape= (batch_size, X_train.shape[1], X_train.shape[2])
 
+# note that it is necessary to pass in 3d batch_input_shape if stateful=True
 model.add(LSTM(64, return_sequences=True, stateful=False,
                batch_input_shape= (batch_size, X_train.shape[1], X_train.shape[2])))
 model.add(LSTM(64, return_sequences=True, stateful=False))
 model.add(LSTM(64, stateful=False))
 
-#
-# model.add(TimeDistributedDense(input_dim=hidden_units, output_dim=nb_classes))
-# model.add(Activation('softmax'))
 
+# add dropout to control for overfitting
 model.add(Dropout(.25))
+
+# squash output onto number of classes in probability space
 model.add(Dense(nb_classes, activation='softmax'))
 
-# try using different optimizers and different optimizer configs
-#sgd = SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
 
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=["accuracy"])
 
@@ -62,8 +58,3 @@ model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=5, validation_data=(
 
 y_pred=model.predict_classes(X_test, batch_size=batch_size)
 print(classification_report(y_test, y_pred))
-# score, acc = model.evaluate(X_test, Y_test,
-#                             batch_size=batch_size,
-#                             show_accuracy=True)
-# print('Test score:', score)
-# print('Test accuracy:', acc)
