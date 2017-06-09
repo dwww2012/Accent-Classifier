@@ -13,7 +13,7 @@ def mp3getter(lst):
         for i in range(1,lst[j][1]+1):
             while True:
                 try:
-                    urllib.urlretrieve("http://accent.gmu.edu/soundtracks/{0}{1}.mp3".format(lst[j][0], i), '../mp3s/{0}{1}.mp3'.format(lst[j][0], i))
+                    urllib.urlretrieve("http://accent.gmu.edu/soundtracks/{0}{1}.mp3".format(lst[j][0], i), '{0}{1}.mp3'.format(lst[j][0], i))
                 except:
                     time.sleep(2)
                 else:
@@ -128,7 +128,6 @@ def get_speaker_info(start, stop):
         html = get(url)
         soup = BeautifulSoup(html.content, 'html.parser')
         body = soup.find_all('div', attrs={'class': 'content'})
-        print "Getting id {}".format(num)
         try:
             info['filename']=str(body[0].find('h5').text.split()[0])
             bio_bar = soup.find_all('ul', attrs={'class':'bio'})
