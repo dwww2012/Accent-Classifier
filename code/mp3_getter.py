@@ -1,5 +1,6 @@
 import urllib
 import time
+import shutil
 from requests import get
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -63,6 +64,47 @@ def lang_pages(lst):
 #  'http://accent.gmu.edu/browse_language.php?function=find&language=urdu',
 #  'http://accent.gmu.edu/browse_language.php?function=find&language=vietnamese']
 
+# from http://accent.gmu.edu/browse_language.php, return list of languages
+def get_languages():
+    url = "http://accent.gmu.edu/browse_language.php"
+    html = get(url)
+    soup = BeautifulSoup(html.content, 'html.parser')
+    languages = []
+    language_lists = soup.findAll('ul', attrs={'class': 'languagelist'})
+    for ul in language_lists:
+        for li in ul.findAll('li'):
+            languages.append(li.text)
+    return languages
+    
+# from list of languages, return list of urls
+def get_language_urls(lst):
+    urls = []
+    for language in lst:
+        urls.append('http://accent.gmu.edu/browse_language.php?function=find&language=' + language)
+    return urls
+
+# from language, get the number of speakers of that language
+def get_num(language):
+    url = 'http://accent.gmu.edu/browse_language.php?function=find&language=' + language
+    html = get(url)
+    soup = BeautifulSoup(html.content, 'html.parser')
+    test = soup.find_all('div', attrs={'class': 'content'})
+    try:
+        num = int(test[0].find('h5').text.split()[2])
+    except AttributeError:
+        num = 0
+    return num
+    
+# from list of languages, return list of tuples (LANGUAGE, LANGUAGE_NUM_SPEAKERS) for mp3getter, ignoring languages
+# with 0 speakers
+def get_formatted_languages(languages):
+    formatted_languages = []
+    for language in languages:
+        num = get_num(language)
+        if num != 0:
+            formatted_languages.append((language,num))
+    return formatted_languages
+    
 # from each language whose url is contained in the above list, save the number of speakers of that language to a list
 def get_nums(lst):
     nums = []
@@ -72,8 +114,6 @@ def get_nums(lst):
         test = soup.find_all('div', attrs={'class': 'content'})
         nums.append(int(test[0].find('h5').text.split()[2]))
     return nums
-
-
 
 def get_speaker_info(start, stop):
     '''
