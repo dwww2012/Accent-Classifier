@@ -115,16 +115,34 @@ def get_nums(lst):
         nums.append(int(test[0].find('h5').text.split()[2]))
     return nums
 
-def get_speaker_info(start, stop):
+def get_speaker_ids(language_url):
     '''
-    Inputs: two integers, corresponding to min and max speaker id number per language
+    Inputs: Language url
+    Outputs: The speaker ids of the people that have that native language 
+    Comment: Can be used with get_speaker_info(ids) to get the info of all speakers that speak a certain language natively
+    '''
+    
+    html = get(language_url)
+    soup = BeautifulSoup(html.content, 'html.parser')
+    ids = []
+    for link in soup.find_all('a'):
+        l = link.get('href')
+        if "speakerid" in l:
+            ids.append(l.split('=')[-1])
+    return ids
+
+def get_speaker_info(ids):
+    '''
+    Inputs: a list of speaker ids
     Outputs: Pandas Dataframe containing speaker filename, birthplace, native_language, age, sex, age_onset of English
     '''
 
     user_data = []
-    for num in range(start,stop):
-        info = {'speakerid': num, 'filename': 0, 'birthplace':1, 'native_language': 2, 'age':3, 'sex':4, 'age_onset':5}
-        url = "http://accent.gmu.edu/browse_language.php?function=detail&speakerid={}".format(num)
+    count = 1
+    for id in ids:
+        info = {'speakerid': id, 'filename': 0, 'birthplace':1, 'native_language': 2, 'age':3, 'sex':4, 'age_onset':5, 'residence':6}
+        url = "http://accent.gmu.edu/browse_language.php?function=detail&speakerid={}".format(id)
+        print(count)
         html = get(url)
         soup = BeautifulSoup(html.content, 'html.parser')
         body = soup.find_all('div', attrs={'class': 'content'})
@@ -136,6 +154,7 @@ def get_speaker_info(start, stop):
             info['age'] = float(bio_bar[0].find_all('li')[3].text.split()[2].strip(','))
             info['sex'] = str(bio_bar[0].find_all('li')[3].text.split()[3].strip())
             info['age_onset'] = float(bio_bar[0].find_all('li')[4].text.split()[4].strip())
+            info['residence'] = str(bio_bar[0].find_all('li')[6].text)[19:]
             user_data.append(info)
         except:
             info['filename'] = ''
@@ -144,9 +163,11 @@ def get_speaker_info(start, stop):
             info['age'] = ''
             info['sex'] = ''
             info['age_onset'] = ''
+            info['residence'] = ''
             user_data.append(info)
         df = pd.DataFrame(user_data)
-        df.to_csv('speaker_info_{}.csv'.format(stop))
+        df.to_csv('speakers_info_{}.csv'.format(len(ids)))
+        count += 1
     return df
 
 # copy files from one list of wav files to a specified location
